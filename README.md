@@ -2,7 +2,7 @@
 
 MLOpsCommunity's reading group for [_Fundamentals of Data Engineering_](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) by Joe Reis and Matt Housley
 
-![bookcover](resources/cover.jpeg)
+![bookcover](resources/fde_cover.jpeg)
 
 # Book Description 
 
