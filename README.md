@@ -35,7 +35,7 @@ This is an async first reading club:
 
 # Chapter Discussions
 
-1. [Data Engineering Described](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/15)
+1. [Data Engineering Described](https://github.com/mlopscommunity/Reading-Group-Fundamentals-of-Data-Engineering/discussions/1)
 
 
 Questions? Reach us out at the #reading-group channel on [MLops Community](https://mlops.community/), or open an issue here
